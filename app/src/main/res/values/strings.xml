@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Start It Now</string>
+    <string name="welcome">Welcome</string>
+    <string name="to">To</string>
+    <string name="email">Email Id</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="member">Not a member?</string>
+    <string name="signup">Sign Up</string>
+    <string name="todo">TODO</string>
+    <string name="phone">Phone number</string>
+    <string name="name">Name</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_premium">Premium</string>
+    <string name="loggedin">You are Logged In</string>
+    <string name="save">Save</string>
+</resources>

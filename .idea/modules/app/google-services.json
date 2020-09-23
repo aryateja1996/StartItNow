@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "29472685726",
+    "firebase_url": "https://stritnow.firebaseio.com",
+    "project_id": "stritnow",
+    "storage_bucket": "stritnow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29472685726:android:52aba41dc2732523a8c58f",
+        "android_client_info": {
+          "package_name": "com.indiworks.stritnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29472685726-atj3auh4ioj1qfjqoor7t13v2hshoa7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indiworks.stritnow",
+            "certificate_hash": "b8a2bfff86f4c4950fad482a6f4fe2f49926f56e"
+          }
+        },
+        {
+          "client_id": "29472685726-kg1u9e8hi4oua9gga0gpn42aa7e20qn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAbl-JjWwL-DvdJW9qy5GmVWcMzEZImnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29472685726-kg1u9e8hi4oua9gga0gpn42aa7e20qn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
